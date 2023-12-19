@@ -1,0 +1,28 @@
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\bin\Debug\CoffeTime.exe.config
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\bin\Debug\CoffeTime.exe
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\bin\Debug\CoffeTime.pdb
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\obj\Debug\CoffeTime.csproj.AssemblyReference.cache
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\obj\Debug\CoffeTime.Create.resources
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\obj\Debug\CoffeTime.Form1.resources
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\obj\Debug\CoffeTime.Properties.Resources.resources
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\obj\Debug\CoffeTime.csproj.GenerateResource.cache
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\obj\Debug\CoffeTime.csproj.CoreCompileInputs.cache
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\obj\Debug\CoffeTime.exe
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\obj\Debug\CoffeTime.pdb
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\obj\Debug\CoffeTime.ADMIN.resources
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\obj\Debug\CoffeTime.CREW.resources
+C:\Users\Zeo Alejandro\Desktop\New folder\CoffeTime\CoffeTime\obj\Debug\CoffeTime.customer.resources
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\bin\Debug\CoffeTime.exe.config
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\bin\Debug\CoffeTime.exe
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\bin\Debug\CoffeTime.pdb
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\obj\Debug\CoffeTime.csproj.AssemblyReference.cache
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\obj\Debug\CoffeTime.ADMIN.resources
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\obj\Debug\CoffeTime.Create.resources
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\obj\Debug\CoffeTime.CREW.resources
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\obj\Debug\CoffeTime.customer.resources
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\obj\Debug\CoffeTime.Form1.resources
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\obj\Debug\CoffeTime.Properties.Resources.resources
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\obj\Debug\CoffeTime.csproj.GenerateResource.cache
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\obj\Debug\CoffeTime.csproj.CoreCompileInputs.cache
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\obj\Debug\CoffeTime.exe
+C:\Users\moise\OneDrive\Desktop\CoffeTime\CoffeTime\obj\Debug\CoffeTime.pdb
